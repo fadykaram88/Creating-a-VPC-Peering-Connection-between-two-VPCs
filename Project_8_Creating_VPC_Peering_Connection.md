@@ -1,6 +1,7 @@
 
 # Project 8: Creating a VPC Peering Connection Between Two VPCs
-
+ر
+![VPC Peering Architecture](https://github.com/fadykaram88/Creating-a-VPC-Peering-Connection-between-two-VPCs/blob/main/module-8-guided-lab-final-architecture.png?raw=true)
 > **Note:** VPC Peering is a one-to-one networking connection between two VPCs that enables you to route the traffic between them privately. This allows instances in both VPCs to communicate with each other.
 
 > **Note:** You can create two VPCs by following the steps in **Project 3**.
